@@ -29,7 +29,14 @@ The following EXTRA features are implemented:
 Here's a video / GIF that demos all of the app's implemented features:
 
 <!-- Replace the link below with your actual GIF demo link (e.g., from ScreenToGif, LICEcap, or Imgur) -->
-![Video Demo](http://i.imgur.com/link.gif)
+![Video Demo](<div>
+    <a href="https://www.loom.com/share/65627f01db6044cd92a1d603a0d46bd4">
+      <p>Hello Squirrel - 23 September 2026 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/65627f01db6044cd92a1d603a0d46bd4">
+      <img style="max-width:300px;" src="https://www.loom.com/v1/videos/65627f01db6044cd92a1d603a0d46bd4/thumbnail.gif">
+    </a>
+  </div>)
 
 ## Notes
 
